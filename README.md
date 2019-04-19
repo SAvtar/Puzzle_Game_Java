@@ -1,6 +1,8 @@
 # Puzzle_Game_Java
 Puzzle game of numbers or alphabet
 
+For this I've used Netbeans IDE
+
 This is a game of mxn matrix in Java
 where three algorithms have been implemented:
 1. Bredth First Search
